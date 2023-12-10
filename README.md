@@ -85,6 +85,9 @@ Fonksiyonel olmayan gereksinimler, bir yazılım sisteminin performansını, kul
 - Şifreleme algoritmaları ve güvenlik standartları kullanılmalıdır. Kimlik Doğrulama ve Yetkilendirme:
 - Kullanıcı kimlik doğrulama ve yetkilendirme süreçleri güvenli ve doğru bir şekilde işlemelidir.
 - Yetkilendirme kontrolleri düzgün bir şekilde uygulanmalıdır.
+- Kullanıcı bilgileri ve etkinlik verileri güvenli bir şekilde saklanmalı ve
+iletilmelidir.
+- Şifreleme yöntemleri, güncel güvenlik standartlarına uygun olmalıdır.
 
 ### Kullanılabilirlik Gereksinimleri
 #### Kolay Kullanım:
@@ -94,11 +97,6 @@ Fonksiyonel olmayan gereksinimler, bir yazılım sisteminin performansını, kul
 - Mobil cihazlarda kullanıcılar için uygun bir deneyim sağlanmalıdır.
 - Mobil arayüz, farklı ekran boyutlarına ve çözünürlüklerine uygun olmalıdır.
 
-### Güvenlik Gereksinimleri
-#### Veri Güvenliği:
-- Kullanıcı bilgileri ve etkinlik verileri güvenli bir şekilde saklanmalı ve
-iletilmelidir.
-- Şifreleme yöntemleri, güncel güvenlik standartlarına uygun olmalıdır.
 #### Yetkilendirme ve Erişim Kontrolü:
 - Yönetici ve kullanıcı yetkileri doğru bir şekilde yönetilmeli ve uygulanmalıdır.
 
